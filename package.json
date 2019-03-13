@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ckd1618/ReactDjango.git"
+    "url": "git+https://github.com/ckd1618/react_django.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ckd1618/ReactDjango/issues"
+    "url": "https://github.com/ckd1618/react_django/issues"
   },
-  "homepage": "https://github.com/ckd1618/ReactDjango#readme",
+  "homepage": "https://github.com/ckd1618/react_django#readme",
   "devDependencies": {
     "@babel/core": "^7.3.4",
     "@babel/preset-env": "^7.3.4",
